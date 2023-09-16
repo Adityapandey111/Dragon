@@ -1,3 +1,3 @@
 # Dragon game
-# it is game in html css and and javascript is ud=sed
-# it has scoring point and background music
+# This game is made using html, css and javascript only.
+# it has scoring point feature and background music.
